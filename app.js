@@ -2,7 +2,7 @@
   'use strict';
 
   const STORAGE_KEY = 'fund-lite-state-v1';
-  const SAMPLE_CODES = ['024500', '001958', '012062', '023881', '011730'];
+  const SAMPLE_CODES = ['024500', '160213', '023881', '011730'];
   const CHART_RANGES = {
     m1: { label: '近1月', days: 24, months: 1 },
     m3: { label: '近3月', days: 72, months: 3 },
